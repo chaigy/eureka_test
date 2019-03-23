@@ -1,0 +1,9 @@
+server:
+  port: 8087
+spring:
+  application:
+    name: cgy-member
+eureka:
+  client:
+    service-url: http://127.0.0.1:
+            

@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cloud-eureka=3
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cloud-eureka-server=2
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=spring-cloud-eureka-order
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=2.1.3.RELEASE
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=\u6D4B\u8BD5eureka\u5BA2\u6237\u7AEF\u7684\u4FE1\u606F(\u8BA2\u5355\u7AEF)
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=com.cgy
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=1.8
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=spring-cloud-eureka-order
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.cgy
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.version=0.0.1-SNAPSHOT
+org.springframework.ide.eclipse.boot.wizard.initializr.url=https\://start.spring.io\n

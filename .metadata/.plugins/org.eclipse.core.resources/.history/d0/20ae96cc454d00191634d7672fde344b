@@ -1,0 +1,14 @@
+package com.cgy.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class OrderServer {
+	
+	
+	
+	
+	public String server() {
+		
+	}
+}

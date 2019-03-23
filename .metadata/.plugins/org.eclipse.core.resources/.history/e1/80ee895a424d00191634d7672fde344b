@@ -1,0 +1,9 @@
+server:
+  port: 8081
+spring:  application:    name: eureka-server
+eureka:  instance:    hostname: 127.0.0.1
+  client:
+  ###是否把改应用注册到eureka服务上    register-with-eureka: true    
+    ###
+    fetch-registry: true
+  

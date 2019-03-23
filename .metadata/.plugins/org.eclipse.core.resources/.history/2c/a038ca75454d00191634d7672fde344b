@@ -1,0 +1,15 @@
+package com.cgy.controller;
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class MemberController {
+	
+	@Value("")
+	private String port;
+	
+	public String member() {
+		return "我是member端的服务信息";
+	}
+}

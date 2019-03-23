@@ -1,0 +1,13 @@
+package com.cgy;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringCloudEurekaMemberApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringCloudEurekaMemberApplication.class, args);
+	}
+
+}

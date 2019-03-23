@@ -1,0 +1,10 @@
+server:
+  port: 8087
+spring:
+  application:
+    name: cgy-member
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8081/eureka/,http://127.0.0.1:9100/eureka/
+            

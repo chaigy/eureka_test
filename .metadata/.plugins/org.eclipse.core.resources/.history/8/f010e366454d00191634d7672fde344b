@@ -1,0 +1,11 @@
+package com.cgy.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class MemberController {
+	
+	public String member() {
+		return "我是member端的服务信息";
+	}
+}

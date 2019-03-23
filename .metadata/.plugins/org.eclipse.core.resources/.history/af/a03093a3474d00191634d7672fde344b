@@ -1,0 +1,14 @@
+server:
+  port: 8081
+spring:  application:    name: eureka-server
+eureka:  instance:    hostname: 127.0.0.1
+    ##刷新间隔
+    lease-renewal-interval-in-seconds: 1
+    ##
+    lease-expiration-duration-in-seconds: 2  
+  client:
+    service-url:      defaultZone: http://${eureka.instance.hostname}:9100/eureka/
+  ###是否把改应用注册到eureka服务上    register-with-eureka: true    
+    ###是否拉去eureka服务上的服务信息
+    fetch-registry: true
+  
